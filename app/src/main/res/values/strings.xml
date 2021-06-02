@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="DBS">DBS</string>
+    <string name="OCBC">OCBC</string>
+    <string name="UOB">UOB</string>
+    <string name="Errortranslation">Error translation</string>
+    <string name="星展银行">星展银行</string>
+    <string name="华侨银行">华侨银行</string>
+    <string name="大华银行">大华银行</string>
+    <string name="DBSphone">18001111111</string>
+    <string name="OCBCphone">18003633333</string>
+    <string name="UOBphone">18002222121</string>
+</resources>
